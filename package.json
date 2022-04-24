@@ -1,0 +1,23 @@
+{
+  "name": "todo-list-typescript",
+  "version": "1.0.0",
+  "description": "A To Do list written in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsguerra/todo-list-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsguerra/todo-list-typescript/issues"
+  },
+  "homepage": "https://github.com/jsguerra/todo-list-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
